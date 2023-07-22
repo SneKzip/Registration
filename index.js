@@ -9,8 +9,8 @@ const isPasswordValid = (password) => {
 };
 
 const showErorr = (input) => {
-    $(".error").removeClass("d-none");
-    $(".error").addClass("d-block");
+    $("#error").removeClass("d-none");
+    $("#error").addClass("d-block");
     $(input).addClass("border-danger");
 };
 const showSuccess = (input) => {
