@@ -1,5 +1,5 @@
 <h1 align = "center">Форма регистрации</h1>
-<h2 align = "center"><a href = "">Демо версия</a></h2>
+<h2 align = "center"><a href = "https://snekzip.github.io/Registration/">Демо версия</a></h2>
 <h2 align = "center">Стек технологий</h2>
 <ul>
     <li><b>HTML, Bootstrap 5</b></li>
